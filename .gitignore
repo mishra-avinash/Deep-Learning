@@ -1,0 +1,8 @@
+other_food_items/
+data/
+preview/
+__pychache__/
+
+*.npy
+*.gz
+*.h5
